@@ -2,18 +2,18 @@
 Tp1 android
 
 
-Question 1
+##Question 1:
   Quel est le nom du fichier de mise en page de l'activité principale?
 
     MainActivity.java
     
 Question 2
-  Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
+    Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
   
     android:name
     
 Question 3
-  Quel outil utilisez-vous pour créer un nouvel émulateur?
+     Quel outil utilisez-vous pour créer un nouvel émulateur?
   
     AVD Manager
 
